@@ -1,0 +1,6 @@
+# Terraform Azure App Service  
+This project contains Terraform configurations to set up an Azure App Service.  
+  
+## Prerequisites  
+- Terraform installed  
+- Azure CLI configured  
